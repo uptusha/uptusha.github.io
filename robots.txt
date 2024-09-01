@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://uptusha.github.io/sitemap.html.gz
+Sitemap: https://uptusha.github.io/app/sitemap.html.gz
+Sitemap: https://uptusha.github.io/assets/sitemap.html.gz
+Sitemap: https://uptusha.github.io/css/sitemap.html.gz
+Sitemap: https://uptusha.github.io/includes/sitemap.html.gz
+Sitemap: https://uptusha.github.io/item/sitemap.html.gz
+Sitemap: https://uptusha.github.io/src/sitemap.html.gz
